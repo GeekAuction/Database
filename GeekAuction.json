@@ -18114,12 +18114,12 @@
     "Nicknames": [
       "aegaeon91"
     ],
-    "Comment": null,
+    "Comment": "Номер карты: 4276 6300 1244 0999 на имя Миронова Вадима Александровича",
     "ApproveComment": null,
-    "SwindlerComment": null,
-    "BlacklistComment": "Мошенник",
+    "SwindlerComment": "",
+    "BlacklistComment": "",
     "Approved": false,
-    "Swindler": false,
+    "Swindler": true,
     "Blacklist": true,
     "Pluses": 0,
     "Minuses": 1
