@@ -29658,5 +29658,49 @@
     "Blacklist": true,
     "Pluses": 0,
     "Minuses": 1
+  },
+  {
+    "Identifier": 1474,
+    "Names": [
+      "Екатерина Малютина",
+      "Катерина Бурлина",
+      "Дмитрий Верблян"
+    ],
+    "IDs": [
+      229626923
+    ],
+    "Nicknames": [
+      " idkaaaatmltn"
+    ],
+    "Comment": null,
+    "ApproveComment": null,
+    "SwindlerComment": null,
+    "BlacklistComment": null,
+    "Approved": false,
+    "Swindler": true,
+    "Blacklist": true,
+    "Pluses": 0,
+    "Minuses": 1
+  },
+  {
+    "Identifier": 1475,
+    "Names": [
+      "Дмитрий Верблян",
+      "Катерина Бурлина",
+      "Екатерина Малютина"
+    ],
+    "IDs": [
+      298570363
+    ],
+    "Nicknames": [],
+    "Comment": null,
+    "ApproveComment": null,
+    "SwindlerComment": null,
+    "BlacklistComment": null,
+    "Approved": false,
+    "Swindler": true,
+    "Blacklist": true,
+    "Pluses": 0,
+    "Minuses": 1
   }
 ]
