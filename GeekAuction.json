@@ -29777,5 +29777,26 @@
     "Blacklist": true,
     "Pluses": 0,
     "Minuses": 1
+  },
+  {
+    "Identifier": 1480,
+    "Names": [
+      "Даниил Ветров"
+    ],
+    "IDs": [
+      239427869
+    ],
+    "Nicknames": [
+      "danil23499"
+    ],
+    "Comment": null,
+    "ApproveComment": null,
+    "SwindlerComment": null,
+    "BlacklistComment": "не выкуп лота",
+    "Approved": false,
+    "Swindler": false,
+    "Blacklist": true,
+    "Pluses": 0,
+    "Minuses": 0
   }
 ]
